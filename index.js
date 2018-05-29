@@ -1,0 +1,1 @@
+export { Tag, TagX } from './lib';

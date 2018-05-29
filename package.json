@@ -1,0 +1,26 @@
+{
+  "name": "react-native-tags-package",
+  "version": "1.0.0",
+  "description": "A complete package for all types of tags for react native apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thakurballary/react-native-tags-package.git"
+  },
+  "keywords": [
+    "react native tags",
+    "react-native-tags",
+    "android",
+    "ios",
+    "tags"
+  ],
+  "author": "Thakur Ballary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thakurballary/react-native-tags-package/issues"
+  },
+  "homepage": "https://github.com/thakurballary/react-native-tags-package#readme"
+}
