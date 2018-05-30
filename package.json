@@ -1,6 +1,6 @@
 {
   "name": "react-native-tags-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A complete package for all types of tags for react native apps",
   "main": "index.js",
   "scripts": {

@@ -38,11 +38,15 @@ Key | Type | Default | Value
 name | String | tag | any string
 color | String | white | react native color formats
 backgroundColor | String | black | react native color formats
+borderRadius | Number | 0 | intergers
 ###### TagX
 Key | Type | Default | Value
 --- | --- | --- | --- 
 name | String | tag | valid strings
+icon | String | close-circle | icon name
 color | String | white | react native color formats
+backgroundColor | String | black | react native color formats
+borderRadius | Number | 0 | intergers
 onPress | Function | ()=>alert('Tag Pressed') | valid functions
 
 ## Contributing
